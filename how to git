@@ -1,0 +1,7 @@
+git init
+git add --all
+git commit -m "Update"
+git remote add origin https://github.com/Mark2525/SDL_Sample.git
+git push origin master
+	-user-------------------: username
+	-password---------------: passwoed
